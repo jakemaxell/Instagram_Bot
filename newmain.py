@@ -1,7 +1,7 @@
 from instapy import InstaPy
 import os
 
-session = InstaPy(username = "pen_palzz", password = "Kidlava97")
+session = InstaPy(username = "**********", password = "**********")
 session.login()
 session.set_do_follow(enabled = True, percentage = 100)
 #session.set_do_comment(enabled = True, percentage = 50)
